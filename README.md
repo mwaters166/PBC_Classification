@@ -2,11 +2,15 @@
 
 ![Cover_Image](https://github.com/mwaters166/PBC_Classification/blob/master/Cover_Image.png)
 
-* Goal: Use convolutional neural networks to classify blood cells (eutrophils, eosinophils, basophils, lymphocytes, monocytes, immature granulocytes [myelocytes, metamyelocytes and promyelocytes], erythroblasts and platelets) in Pytorch
+* Goal: Use convolutional neural networks to classify blood cells (neutrophils, eosinophils, basophils, lymphocytes, monocytes, immature granulocytes [myelocytes, metamyelocytes and promyelocytes], erythroblasts and platelets) in Pytorch
 
 ## Files Added
 
-* Jupyter Notebooks: 1_PBC_Classification_Data_Organization.ipynb (Data organization), 2_PBC_Classification_CNN_Pytorch.ipynb (ML)
+Jupyter Notebooks: 
+
+* 1_PBC_Classification_Data_Organization.ipynb (Data organization):https://github.com/mwaters166/PBC_Classification/blob/master/1_PBC_Classification_Data_Organization.ipynb
+
+* 2_PBC_Classification_CNN_Pytorch.ipynb (ML): https://github.com/mwaters166/PBC_Classification/blob/master/2_PBC_Classification_CNN_Pytorch.ipynb
 
 ## About the data
 
